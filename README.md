@@ -1,2 +1,2 @@
 # nr
-nr basic modules
+nr basic modules.
